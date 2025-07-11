@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Chau%20Ngan&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Chau%20Ngan&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=700&size=25&pause=500&color=FF6B9D&center=true&vCenter=true&width=600&lines=✨+Welcome+to+my+digital+universe+✨;🌸+Creative+•+Passionate+•+Inspiring+🌸;🎨+Content+Creator+%26+Digital+Artist+🎨;📱+Social+Media+Enthusiast+📱;💫+Making+magic+happen+every+day+💫" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;Mobile+App+Developer+%F0%9F%93%B1;Social+Media+Enthusiast+%F0%9F%8C%9F;Creating+Amazing+Digital+Experiences+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ## 🌟 About Me
@@ -15,155 +15,144 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="50">
-        <br><strong>Creative Mind</strong>
-        <br>Always thinking outside the box
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=ChauNgan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFF&count_private=true" width="100%" />
       </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/216644507-9c4e9563-1263-4a24-91b1-9ad252aff540.gif" width="50">
-        <br><strong>Content Creator</strong>
-        <br>Bringing ideas to life through content
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/216644505-54946faf-10ce-4f22-bd0d-2d9f5d117f35.gif" width="50">
-        <br><strong>Digital Artist</strong>
-        <br>Creating beautiful digital experiences
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChauNgan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&langs_count=8" width="100%" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  
-```json
-{
-  "name": "Chau Ngan",
-  "pronouns": "she/her",
-  "location": "Vietnam 🇻🇳",
-  "passions": ["Content Creation", "Digital Art", "Social Media", "Photography"],
-  "currentVibes": "Creating amazing content ✨",
-  "motto": "Life is too short for boring content 🌈"
-}
-```
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChauNgan&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakNum=FFF&sideNums=FFF&currStreakLabel=FF6B6B&sideLabels=FF6B6B&dates=FFF" width="70%" />
 </div>
 
-## 🎨 My Digital Playground
+## 💫 Tech Stack & Skills
 
 <div align="center">
 
-### 🌈 Creative Skills
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,html,css,js,ts,tailwind,sass,bootstrap,figma" />
 
-### 📱 Social Media Mastery
-![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+### 🚀 Backend Development  
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,flask,php,laravel,java,spring" />
 
-### 🎬 Content Creation Tools
-![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?style=for-the-badge&logo=obs-studio&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+### 📱 Mobile Development
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,reactnative" />
+
+### 🗄️ Database & Cloud
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,aws,docker,kubernetes,redis" />
+
+### 🛠️ Tools & Others
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,linux,bash,nginx" />
 
 </div>
 
-## 📊 My Digital Presence
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChauNgan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFF&icon_color=FF6B9D&border_color=FF6B9D"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChauNgan&layout=compact&langs_count=8&theme=radical&bg_color=0D1117&title_color=FF6B9D&text_color=FFF&border_color=FF6B9D"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChauNgan&theme=radical&background=0D1117&stroke=FF6B9D&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D&sideNums=FFF&currStreakNum=FFF&dates=FFF&sideLabels=FFF&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 🎯 What I'm Up To
+## 🎯 What I'm Working On
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">🎨</td>
-      <td>Creating stunning visual content and digital art</td>
-    </tr>
-    <tr>
-      <td align="center">📱</td>
-      <td>Growing my social media presence across platforms</td>
-    </tr>
-    <tr>
-      <td align="center">🎬</td>
-      <td>Producing engaging video content for TikTok and Instagram</td>
-    </tr>
-    <tr>
-      <td align="center">📸</td>
-      <td>Exploring photography and visual storytelling</td>
-    </tr>
-    <tr>
-      <td align="center">✨</td>
-      <td>Collaborating with other creators and brands</td>
+      <td align="center" width="33%">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="60" />
+        <br><strong>Web Applications</strong>
+        <br><small>Building responsive and interactive web apps with modern frameworks</small>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" width="60" />
+        <br><strong>Mobile Apps</strong>
+        <br><small>Creating cross-platform mobile applications with Flutter & React Native</small>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" width="60" />
+        <br><strong>Social Platforms</strong>
+        <br><small>Developing social media features and community-driven applications</small>
+      </td>
     </tr>
   </table>
 </div>
 
-## 🏆 Achievements & Highlights
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChauNgan&theme=radical&no-frame=true&no-bg=false&margin-w=4&title=Stars,Followers,Commits,Issues,MultipleLang,PullRequest&bg_color=0D1117&color=FF6B9D&title_color=FF6B9D" />
-</div>
-
-## 🌸 Fun Facts About Me
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-  
-  🌟 I can turn any ordinary moment into content magic<br>
-  🎨 My creative process involves lots of coffee and inspiration<br>
-  📱 I'm always on the lookout for the next viral trend<br>
-  💫 Believer in the power of authentic storytelling<br>
-  🌈 My feed is a rainbow of creativity and positivity<br>
-  
-</div>
-
-## 🤝 Let's Connect & Create Together
-
-<div align="center">
-  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/nguyenlechau.ngan.p)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/chngysmine/)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@nlcn_)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChauNgan)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChauNgan&theme=redical&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+  <img src="https://github-profile-trophy.vercel.app/?username=ChauNgan&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" />
 </div>
 
-## 💌 Get In Touch
+## 🌈 Current Projects & Interests
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216644505-54946faf-10ce-4f22-bd0d-2d9f5d117f35.gif" width="50">
-  
-  **Always open to:**
-  - 🤝 Creative collaborations
-  - 📸 Brand partnerships
-  - 🎨 Art commissions
-  - 💬 Just saying hi!
-  
-  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="50">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=4ECDC4&center=true&vCenter=true&width=800&lines=%F0%9F%92%BB+Building+scalable+web+applications;%F0%9F%93%B1+Developing+cross-platform+mobile+apps;%F0%9F%8C%90+Creating+social+media+platforms;%F0%9F%8E%A8+Designing+beautiful+user+interfaces;%F0%9F%9A%80+Learning+new+technologies+daily" alt="Current Projects" />
+</div>
+
+## 📱 Connect With Me
+
+<div align="center">
+  <a href="https://www.facebook.com/nguyenlechau.ngan.p" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&animation=pulse" />
+  </a>
+  <a href="https://www.instagram.com/chngysmine/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@nlcn_" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://github.com/ChauNgan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChauNgan&label=Profile%20views&color=FF6B9D&style=flat" alt="Profile views" />
-  
-  **✨ Thanks for stopping by my digital space! ✨**
+  <img src="https://komarev.com/ghpvc/?username=ChauNgan&label=Profile%20views&color=FF6B6B&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/ChauNgan?label=Followers&style=for-the-badge&color=4ECDC4" />
+</div>
+
+## 🎨 Creative Corner
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20poetry%20written%20in%20logic&author=Chau%20Ngan" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🌟 Fun Facts
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">🎯</td>
+      <td>I love creating apps that make people's lives easier</td>
+    </tr>
+    <tr>
+      <td align="center">🌱</td>
+      <td>Always learning new technologies and frameworks</td>
+    </tr>
+    <tr>
+      <td align="center">📱</td>
+      <td>Social media enthusiast who understands user engagement</td>
+    </tr>
+    <tr>
+      <td align="center">🎨</td>
+      <td>Passionate about UI/UX design and user experience</td>
+    </tr>
+    <tr>
+      <td align="center">🚀</td>
+      <td>Dream of building the next big social platform</td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
+</div>
+
+<div align="center">
+  <b>⭐ Thanks for visiting my profile! Don't forget to star my repositories if you find them interesting! ⭐</b>
 </div>
